@@ -1,10 +1,10 @@
 ---
-title: TiDB Introduction
+title: appSmith Introduction
 summary: Learn about the NewSQL database TiDB that supports HTAP workloads.
 aliases: ['/docs/dev/']
 ---
 
-# TiDB Introduction
+# appSmith Introduction哈哈哈哈哈哈哈哈哈哈
 
 [TiDB](https://github.com/pingcap/tidb) (/’taɪdiːbi:/, "Ti" stands for Titanium) is an open-source, distributed, NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability. TiDB can be deployed on-premise or in-cloud.
 
